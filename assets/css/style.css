@@ -1,0 +1,11 @@
+#inputCard{
+	background-image: "assets/images/Map_France.gif",
+	background-color:rgba(255, 255, 255, .3);
+}
+#cardPadding{
+	padding: 10px
+}
+#button{
+	padding: 10px
+	margin:10px;
+}
